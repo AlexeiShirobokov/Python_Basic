@@ -7,7 +7,7 @@ class Model:
         self.filename=filename
         self.data = [{
         'name': 'Иван',
-        'lastname': 'Иванов',
+        'lastname': 'Смирнов',
         'tel': '89127120012',
         'email': 'ivanov@gmail.com',
         'work': 'Иванов и Партнеры',
